@@ -14,5 +14,6 @@ public class Olámundo : MonoBehaviour
     void Update()
     {
         Debug.Log("Olá mundo!!!!");
+        Debug.Log("Olá Galerinha do mal!");
     }
 }
