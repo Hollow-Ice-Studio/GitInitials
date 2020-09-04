@@ -7,7 +7,7 @@ public class Olámundo : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("Olá mundo!");
     }
 
     // Update is called once per frame
