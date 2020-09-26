@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-26T20:05:32.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.63" etag="gpFWGpIljkJhj5Omj5JY" version="13.7.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-09-26T20:38:19.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.63" etag="RdjunvpF2vnjG5RY0QSg" version="13.7.5" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="[FSM] Movimentação">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -401,7 +401,7 @@
         <mxCell id="-K7giP6KwrkNX2_Cz8Um-18" value="Jogador" style="rounded=0;whiteSpace=wrap;html=1;" parent="-K7giP6KwrkNX2_Cz8Um-1" vertex="1">
           <mxGeometry x="520" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-K7giP6KwrkNX2_Cz8Um-19" value="Inventário" style="rounded=0;whiteSpace=wrap;html=1;" parent="-K7giP6KwrkNX2_Cz8Um-1" vertex="1">
+        <mxCell id="-K7giP6KwrkNX2_Cz8Um-19" value="Inventário" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="-K7giP6KwrkNX2_Cz8Um-1" vertex="1">
           <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-K7giP6KwrkNX2_Cz8Um-20" value="Modifica" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#000000;" parent="-K7giP6KwrkNX2_Cz8Um-1" vertex="1">
@@ -463,6 +463,9 @@
         </mxCell>
         <mxCell id="SIfoC_yjysRFOTkbZZSF-0" value="Example" style="rounded=0;whiteSpace=wrap;html=1;" parent="-K7giP6KwrkNX2_Cz8Um-1" vertex="1">
           <mxGeometry x="650" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WgKcol9rD1YjXor4kKRL-0" value="[FSM] Movimentação" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="-K7giP6KwrkNX2_Cz8Um-1">
+          <mxGeometry x="520" y="225" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
